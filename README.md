@@ -1,4 +1,4 @@
-<blockquote align="center">“Keep it Simple, Stupid”!</blockquote>
+<blockquote align="center">“Keep it Simple”!</blockquote>
 
 
 <h1 align="center"> DOE </h1>
