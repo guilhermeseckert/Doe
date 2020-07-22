@@ -1,0 +1,32 @@
+{
+  "name": "doe",
+  "version": "1.0.0",
+  "description": "<blockquote align=\"center\">“Keep it Simple, Stupid”!</blockquote>",
+  "main": "scripts.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "husky": "^4.2.3",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeseckert/DOE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeseckert/DOE/issues"
+  },
+  "homepage": "https://github.com/guilhermeseckert/DOE#readme"
+}
